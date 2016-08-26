@@ -1,4 +1,4 @@
-set currentDIR=%CD%
+set currentDIR=%~dp0
 regsvr32 /u /s %currentDIR%\Encoder\Fileinfo.dll
 regsvr32 /u /s %currentDIR%\Encoder\mspshell.dll
 regsvr32 /u /s %currentDIR%\Encoder\StreamEditor.dll
