@@ -1,0 +1,8 @@
+C:\Users\v-zhenpy\Desktop\DesktopRecorder\DesktopRecorder\obj\Release\DesktopRecorder.frmRecorder.resources
+C:\Users\v-zhenpy\Desktop\DesktopRecorder\DesktopRecorder\obj\Release\DesktopRecorder.Properties.Resources.resources
+C:\Users\v-zhenpy\Desktop\DesktopRecorder\DesktopRecorder\obj\Release\DesktopRecorder.csproj.GenerateResource.Cache
+C:\Users\v-zhenpy\Desktop\DesktopRecorder\DesktopRecorder\bin\Release\DesktopRecorder.exe
+C:\Users\v-zhenpy\Desktop\DesktopRecorder\DesktopRecorder\bin\Release\DesktopRecorder.pdb
+C:\Users\v-zhenpy\Desktop\DesktopRecorder\DesktopRecorder\obj\Release\DesktopRecorder.exe
+C:\Users\v-zhenpy\Desktop\DesktopRecorder\DesktopRecorder\obj\Release\DesktopRecorder.pdb
+C:\Users\v-zhenpy\Desktop\DesktopRecorder\DesktopRecorder\obj\Release\DesktopRecorder.csprojResolveAssemblyReference.cache
